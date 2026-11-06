@@ -1,0 +1,5 @@
+{
+  "old-bakery.test": {"file": "old-bakery.html", "final_url": "http://old-bakery.test/", "seconds": 4.2},
+  "riverside-dental.test": {"file": "riverside-dental.html", "final_url": "https://riverside-dental.test/", "seconds": 1.9},
+  "northlight-studio.test": {"file": "northlight-studio.html", "final_url": "https://northlight-studio.test/", "seconds": 0.7}
+}
