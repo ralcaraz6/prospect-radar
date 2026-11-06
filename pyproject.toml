@@ -1,0 +1,19 @@
+[project]
+name = "prospect-radar"
+version = "0.1.0"
+description = "Rank business websites by how much they would gain from a fix."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Rogelio Alcaraz" }]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+prospect-radar = "prospect_radar.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

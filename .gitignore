@@ -1,0 +1,11 @@
+# Real prospect lists and generated reports stay on my machine
+/prospects.csv
+/report*.md
+/report*.csv
+.env
+
+__pycache__/
+*.egg-info/
+.venv/
+dist/
+build/
